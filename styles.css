@@ -1,0 +1,33 @@
+body {
+    background: url(img/page_bg_01.jpg) fixed;
+    background-size: cover;
+}
+header, section{
+    width: 1200px;
+    margin: auto;
+}
+.fix{
+    width: 100%;
+    border-radius: 10px;
+}
+.hover:hover{
+    text-decoration: underline rgb(31, 144, 182) solid 2px;
+    text-underline-offset: 10px;
+}
+.title_fixed{
+    background-color: #212529;
+    text-align: center;
+    margin: auto;
+}
+.hiper_fixed{
+    text-decoration: none;
+    color: white;
+}
+.hiper_fixed:hover{
+    color: white;
+}
+#title{
+    font-family: Roboto; 
+    font-weight: bold; 
+    color: #212529;
+}

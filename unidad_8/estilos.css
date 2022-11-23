@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background-color: #E3E3E6;
+	margin:0;
+	overflow: scroll;
+	overflow-x: hidden;    
+}
+
+#contenedor {
+	width:960px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+header {
+	height:270px;
+}
+
+h1 {
+	margin:0 0 0 40px;
+	font-size:36px;
+	color:#333;
+}
+
+a {
+	color:#80C141;
+	text-decoration:none;
+}
+#botonera_principal {
+	width:960px;
+	height:70px;
+	border-left: 20px solid #80C141;
+	background-color:#FFF;
+}
+
+#botonera_principal ul {
+	margin:0;
+	padding:0;
+	list-style-type:none;}
+
+#botonera_principal ul li {
+	display: inline;
+}
+
+#botonera_principal ul li a {
+	display: inline-block;
+	color:#333;
+	text-decoration:none;
+	text-align: center;
+	border-right:1px dotted #CCC;
+	width: 188px;
+	height: 70px;
+	line-height: 70px;
+	}
+	
+#botonera_principal ul li a:hover {
+	background-color:#80C141;
+	}
+	
+#marca {
+	background-image:url(imagenes/fondo_marca.jpg);
+	height:200px;
+	padding-top:27px;
+	border-left:solid 20px #333;
+	}
+
+#contenido {
+	padding:20px;
+	background-color:#FFF;
+	border-left: 20px solid #80C141;
+	}
+
+h2 {
+	color:#666;}
+
+footer {
+	background-color:#80C141;
+	padding:20px;
+	border-left: 20px solid #333;
+	}
+
+footer a {
+	color:#FFF;
+	font-weight:bold;}
+
+
+.hover:hover{
+	text-decoration: underline #80C141 solid 2px;
+	text-underline-offset: 10px;
+}

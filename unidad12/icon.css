@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?qprdly');
+  src:  url('fonts/icomoon.eot?qprdly#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?qprdly') format('truetype'),
+    url('fonts/icomoon.woff?qprdly') format('woff'),
+    url('fonts/icomoon.svg?qprdly#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-list:before {
+  content: "\e910";
+}
+.icon-envelope1:before {
+  content: "\e906";
+}
+.icon-envelope:before {
+  content: "\e904";
+}
+.icon-menu7:before {
+  content: "\e90e";
+}
+.icon-phone1:before {
+  content: "\e900";
+}
+.icon-th-menu1:before {
+  content: "\e90f";
+}
+.icon-mail:before {
+  content: "\e905";
+}
+.icon-th-menu:before {
+  content: "\e907";
+}
+.icon-menu6:before {
+  content: "\e90d";
+}
+.icon-menu3:before {
+  content: "\e908";
+}
+.icon-phone2:before {
+  content: "\e901";
+}
+.icon-phone3:before {
+  content: "\e902";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-envelop:before {
+  content: "\e945";
+}
+.icon-menu:before {
+  content: "\e9bd";
+}
+.icon-mail4:before {
+  content: "\ea86";
+}
+.icon-menu4:before {
+  content: "\e90b";
+}
+.icon-phone4:before {
+  content: "\e903";
+}
+.icon-menu5:before {
+  content: "\e90c";
+}
+.icon-menu2:before {
+  content: "\e909";
+}
+.icon-menu1:before {
+  content: "\e90a";
+}

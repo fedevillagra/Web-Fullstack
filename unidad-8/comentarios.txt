@@ -1,0 +1,16 @@
+       <div class="list-group-item mb-3">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-3">Juan Perez <small style="font-size:small;">(juanperez@gmail.com)</small></h5>
+                <small>23:44 hs </br>07/03/2022</small>
+            </div>
+            <p class="mb-3">Ejemplo de comentario.</p>
+        </div>
+
+       <div class="list-group-item mb-3">
+            <div class="d-flex w-100 justify-content-between">
+                <h5 class="mb-3">Maria Sanchez <small style="font-size:small;">(Mariasanchez@gmail.com)</small></h5>
+                <small>20:47 hs </br>10/04/2022</small>
+            </div>
+            <p class="mb-3">Esto es un comentario.</p>
+        </div>
+
